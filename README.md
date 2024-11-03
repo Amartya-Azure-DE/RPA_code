@@ -1,4 +1,4 @@
-Python==3.10 used
+Python==3.10 used /n
 run this command on your venv directory using cmd terminal:
 python -m venv myenv
 myenv\Scripts\activate
